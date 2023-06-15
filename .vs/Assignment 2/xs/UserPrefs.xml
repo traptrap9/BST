@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7EA1CD5D-0DCE-4604-812E-4ACD8A16A742}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment 2/Movie.cs">
+    <Files>
+      <File FileName="Assignment 2/Program.cs" />
+      <File FileName="Assignment 2/Movie.cs" Line="49" Column="20" />
+      <File FileName="Assignment 2/MovieCollection.cs" />
+      <File FileName="Assignment 2/IMovie.cs" />
+      <File FileName="Assignment 2/IMovieCollection.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment 2" expanded="True">
+            <Node name="Assignment 2" expanded="True">
+              <Node name="Movie.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
